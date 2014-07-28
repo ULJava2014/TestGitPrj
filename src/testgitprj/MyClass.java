@@ -11,5 +11,8 @@ package testgitprj;
  * @author B2005
  */
 class MyClass {
-    
+
+    public void doSomething() {
+        System.out.println("something");
+    }
 }

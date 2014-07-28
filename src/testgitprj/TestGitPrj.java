@@ -20,6 +20,7 @@ public class TestGitPrj {
         System.out.println("First change");
         
         MyClass myClass = new MyClass();
+        myClass.doSomething();
         
     }
     
